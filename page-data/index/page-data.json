@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-md",
     "path": "/",
-    "result": {"pageContext":{"frontmatter":{"title":"Overview - Adobe Analytics","description":"This is the overview page of Adobe Analytics","contributors":["https://github.com/icaraps"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Commerce PHP Extensions","description":"Review resources for developing PHP-based extensions for Adobe Commerce and Magento Open Source."}}},
     "staticQueryHashes": ["915530536"]}
