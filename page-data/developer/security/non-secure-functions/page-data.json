@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-security-non-secure-functions-md",
+    "path": "/developer/security/non-secure-functions/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"Security","title":"Non-secure functions","menu_title":"Non-secure functions","menu_order":2100}}},
+    "staticQueryHashes": ["915530536"]}

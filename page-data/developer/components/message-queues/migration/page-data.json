@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-message-queues-migration-md",
+    "path": "/developer/components/message-queues/migration/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Migrate message queue configuration","menu_title":"Migrate message queue configuration","functional_areas":["Configuration","System","Setup"]}}},
+    "staticQueryHashes": ["915530536"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-versioning-index-md",
+    "path": "/developer/versioning/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Versioning schema","redirect_from":["/guides/v2.3/architecture/versioning.html"]}}},
+    "staticQueryHashes": ["915530536"]}

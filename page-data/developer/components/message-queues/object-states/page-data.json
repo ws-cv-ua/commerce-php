@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-message-queues-object-states-md",
+    "path": "/developer/components/message-queues/object-states/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Handling outdated in-memory object states","functional_areas":["Configuration","System"]}}},
+    "staticQueryHashes": ["915530536"]}

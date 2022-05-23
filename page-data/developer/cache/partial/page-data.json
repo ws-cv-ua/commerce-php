@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-cache-partial-index-md",
+    "path": "/developer/cache/partial/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"08_Partial caching","title":"Partial caching","menu_title":"Partial caching","menu_order":1,"menu_node":"parent"}}},
+    "staticQueryHashes": ["915530536"]}

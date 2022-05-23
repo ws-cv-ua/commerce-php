@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-cache-page-index-md",
+    "path": "/developer/cache/page/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Page caching"}}},
+    "staticQueryHashes": ["915530536"]}

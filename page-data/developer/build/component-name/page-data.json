@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-build-component-name-md",
+    "path": "/developer/build/component-name/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Name your component"}}},
+    "staticQueryHashes": ["915530536"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-security-cross-site-request-forgery-md",
+    "path": "/developer/security/cross-site-request-forgery/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Cross-site request forgery (CSRF)"}}},
+    "staticQueryHashes": ["915530536"]}

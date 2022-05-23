@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-staging-md",
+    "path": "/developer/staging/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Staging (Adobe Commerce only)","edition":"ee"}}},
+    "staticQueryHashes": ["915530536"]}

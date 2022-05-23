@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-message-queues-configuration-md",
+    "path": "/developer/components/message-queues/configuration/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Configure message queues","functional_areas":["Configuration","System","Setup"]}}},
+    "staticQueryHashes": ["915530536"]}

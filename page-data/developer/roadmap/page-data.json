@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-roadmap-md",
+    "path": "/developer/roadmap/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"01_Introduction","title":"Developer roadmap","menu_title":"Developer roadmap","menu_order":2}}},
+    "staticQueryHashes": ["915530536"]}

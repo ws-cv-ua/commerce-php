@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-declarative-schema-migration-scripts-md",
+    "path": "/developer/components/declarative-schema/migration-scripts/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Migrate install/upgrade scripts to declarative schema"}}},
+    "staticQueryHashes": ["915530536"]}

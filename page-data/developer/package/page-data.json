@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-package-index-md",
+    "path": "/developer/package/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"05_Package","title":"Package","menu_title":"Package","menu_order":1,"menu_node":"parent"}}},
+    "staticQueryHashes": ["915530536"]}

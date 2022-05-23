@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-plugins-md",
+    "path": "/developer/components/plugins/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Plugins (Interceptors)"}}},
+    "staticQueryHashes": ["915530536"]}

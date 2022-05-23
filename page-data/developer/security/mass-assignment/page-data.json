@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-security-mass-assignment-md",
+    "path": "/developer/security/mass-assignment/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Mass assignment"}}},
+    "staticQueryHashes": ["915530536"]}

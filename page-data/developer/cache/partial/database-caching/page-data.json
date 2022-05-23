@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-cache-partial-database-caching-md",
+    "path": "/developer/cache/partial/database-caching/",
+    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Create custom cache engines","redirect_from":["/guides/v2.3/config-guide/database/database.html","/guides/v2.3/config-guide/cache/caching-database.html"]}}},
+    "staticQueryHashes": ["915530536"]}
