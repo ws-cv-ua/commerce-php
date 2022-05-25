@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-cli-commands-create-new-md",
-    "path": "/developer/cli-commands/create-new/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"65_CLI","title":"How to add CLI commands","menu_title":"How to add CLI commands","menu_node":null,"menu_order":3}}},
-    "staticQueryHashes": ["915530536"]}

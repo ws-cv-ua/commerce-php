@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-clear-directories-md",
     "path": "/developer/components/clear-directories/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Clear directories during development","menu_title":"Clear directories during development","menu_node":null,"menu_order":200}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Directory and Cache Clearing | Commerce PHP Extensions","description":"Ensure that your ADobe Commerce and Magento Open Source code is functioning properly by routinely clearing specific directories and caches."}}},
     "staticQueryHashes": ["915530536"]}

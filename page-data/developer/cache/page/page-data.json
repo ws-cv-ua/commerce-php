@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-cache-page-index-md",
     "path": "/developer/cache/page/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Page caching"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Page Caching | Commerce PHP Extensions","description":"USe page caching to improve the performance of your Adobe Commerce or Magento Open Source storefront."}}},
     "staticQueryHashes": ["915530536"]}

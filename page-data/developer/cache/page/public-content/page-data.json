@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-cache-page-public-content-md",
     "path": "/developer/cache/page/public-content/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Public content"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Public Content | Commerce PHP Extensions","description":"Learn how to work with public data when implementing a caching in your Adobe Commerce or Magento Open Source extension."}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-add-attributes-md",
     "path": "/developer/components/add-attributes/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Adding extension attributes to entity","menu_title":"Adding extension attributes to entity","menu_order":20}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Add Extension Attributes to Entities | Commerce PHP Extensions","description":"Extend the functionality of Adobe Commerce and Magento Open Source using complex data types."}}},
     "staticQueryHashes": ["915530536"]}

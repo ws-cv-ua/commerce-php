@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-common-terms-md",
     "path": "/developer/common-terms/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Glossary of common terms"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Glossary of common terms | Commerce PHP Extensions","description":"Review common terms that are used to describe technical aspects of Adobe Commerce and Magento Open Source extension development."}}},
     "staticQueryHashes": ["915530536"]}

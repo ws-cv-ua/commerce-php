@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-variable-pool-md",
     "path": "/developer/components/variable-pool/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Variable Pool"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Variable Pool | Commerce PHP Extensions","description":"Learn how to use pre-defined values in Adobe Commerce and Magento Open source CMS content."}}},
     "staticQueryHashes": ["915530536"]}

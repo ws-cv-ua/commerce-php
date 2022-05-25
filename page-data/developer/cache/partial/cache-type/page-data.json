@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-cache-partial-cache-type-md",
     "path": "/developer/cache/partial/cache-type/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Create a cache type"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Create a cache type | Commerce PHP Extensions","description":"Learn about cache types and configurations for Adobe Commerce and Magento Open Source extensions."}}},
     "staticQueryHashes": ["915530536"]}

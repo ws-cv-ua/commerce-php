@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-web-api-services-md",
     "path": "/developer/components/web-api/services/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Configure services as web APIs","contributor_name":"Classy Llama","contributor_link":"http://www.classyllama.com/","functional_areas":["Services"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Configure Services as Web APIs | Commerce PHP Extensions","description":"Configure an Adobe Commerce, Magento Open Source or third-party service as a web API.","contributor_name":"Classy Llama","contributor_link":"http://www.classyllama.com/"}}},
     "staticQueryHashes": ["915530536"]}

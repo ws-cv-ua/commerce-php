@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-adapters-md",
     "path": "/developer/components/adapters/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Adapters","menu_title":"Adapters","menu_order":1000}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Adapters | Commerce PHP Extensions","description":"Learn about Adobe Commerce and Magento Open Source adapter classes, when to use them, and how to write them."}}},
     "staticQueryHashes": ["915530536"]}

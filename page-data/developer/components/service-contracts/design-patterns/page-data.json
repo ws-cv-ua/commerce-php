@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-service-contracts-design-patterns-md",
     "path": "/developer/components/service-contracts/design-patterns/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Service contract design patterns","menu_title":"Service contract design patterns","menu_order":4}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Service Contract Design Patterns | Commerce PHP Extensions","description":"Follow these recommendations to define Adobe Commerce and Magento Open Source data and service interfaces."}}},
     "staticQueryHashes": ["915530536"]}

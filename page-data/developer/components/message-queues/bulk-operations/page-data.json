@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-message-queues-bulk-operations-md",
     "path": "/developer/components/message-queues/bulk-operations/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Bulk Operations","functional_areas":["Services"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Bulk Operations | Commerce PHP Extensions","description":"Improve performance for Admin users by implementing bulk operations for Adobe Commerce and Magento Open Source."}}},
     "staticQueryHashes": ["915530536"]}

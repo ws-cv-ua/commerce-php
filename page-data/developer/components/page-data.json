@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-developer-components-index-md",
+    "path": "/developer/components/",
+    "result": {"pageContext":{"frontmatter":{"title":"Component Development | Commerce PHP Extensions","description":"Review an introduction to Adobe Commerce and Magento Open Source component development, which includes modules, themes, and language packages."}}},
+    "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-build-required-configuration-files-md",
     "path": "/developer/build/required-configuration-files/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"03_Build","title":"Define your configuration files"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Required Configuration Files | Commerce PHP Extensions","description":"Create required configuration files for Adobe Commerce and Magento Open Source components."}}},
     "staticQueryHashes": ["915530536"]}

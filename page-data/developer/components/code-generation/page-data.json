@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-code-generation-md",
     "path": "/developer/components/code-generation/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Code generation"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Code Generation | Commerce PHP Extensions","description":"Learn about Adobe Commerce and Magento Open Source code generation."}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-message-queues-async-configuration-md",
     "path": "/developer/components/message-queues/async-configuration/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Asynchronous Message Queue configuration files","contributor_name":"comwrap GmbH","contributor_link":"https://www.comwrap.com","functional_areas":["Services"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Asynchronous Configuration | Commerce PHP Extensions","description":"Learn about the important configuration files that you must configure in your Adobe commerce and Magento Open Source extensions.","contributor_name":"comwrap GmbH","contributor_link":"https://www.comwrap.com"}}},
     "staticQueryHashes": ["915530536"]}

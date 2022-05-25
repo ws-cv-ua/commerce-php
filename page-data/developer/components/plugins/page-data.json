@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-plugins-md",
     "path": "/developer/components/plugins/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"99_Module Development","title":"Plugins (Interceptors)"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Plugins | Commerce PHP Extensions","description":"Modify the behavior of public class functions in Adobe Commerce and Magento Open Source using plugin (or interceptor) classes."}}},
     "staticQueryHashes": ["915530536"]}

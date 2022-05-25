@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-searching-with-repositories-md",
     "path": "/developer/components/searching-with-repositories/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Searching with Repositories","functional_areas":["Search"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Searching with Repositories | Commerce PHP Extensions","description":"Learn how to use Adobe Commerce and Magento Open Source repositories to perform search opertions on entities."}}},
     "staticQueryHashes": ["915530536"]}
