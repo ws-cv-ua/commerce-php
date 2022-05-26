@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-framework-serialize-library-md",
     "path": "/developer/framework/serialize-library/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Serialize Library","subgroup":"Framework","menu_title":"Serialize Library","menu_order":1000}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Serialize Library | Commerce PHP Extensions","description":"Use this library in your Adobe Commerce and Magento Open Source components to manage the serialization and unserialization of data."}}},
     "staticQueryHashes": ["915530536"]}

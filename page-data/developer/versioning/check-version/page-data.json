@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-versioning-check-version-md",
     "path": "/developer/versioning/check-version/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Check the Commerce version","contributor_name":"Atwix","contributor_link":"https://www.atwix.com/"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Check the Commerce Version | Commerce PHP Extensions","description":"Use these options to identify the version of Adobe Commerce or Magento Open Source.","contributor_name":"Atwix","contributor_link":"https://www.atwix.com/"}}},
     "staticQueryHashes": ["915530536"]}

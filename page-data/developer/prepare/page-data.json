@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-prepare-index-md",
     "path": "/developer/prepare/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"02_Prepare","title":"Prepare (development quick start)","menu_title":"Prepare (development quick start)","menu_order":1,"menu_node":"parent"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Prepare | Commerce PHP Extensions","description":"Navigate preparatory resources available for Adobe Commerce and Magento Open Source component development."}}},
     "staticQueryHashes": ["915530536"]}

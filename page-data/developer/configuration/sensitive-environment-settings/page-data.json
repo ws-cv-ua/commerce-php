@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-configuration-sensitive-environment-settings-md",
     "path": "/developer/configuration/sensitive-environment-settings/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"Configuration","title":"Sensitive and environment settings","menu_title":"Sensitive and environment settings","menu_order":1000,"functional_areas":["Configuration"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Sensitive and Environment-Specific Settings | Commerce PHP Extensions","description":"Configure sensitive and environment-specific settings with Adobe Commerce or Magento Open Source components."}}},
     "staticQueryHashes": ["915530536"]}

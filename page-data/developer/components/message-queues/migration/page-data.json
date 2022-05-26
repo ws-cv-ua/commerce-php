@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-message-queues-migration-md",
     "path": "/developer/components/message-queues/migration/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Migrate message queue configuration","menu_title":"Migrate message queue configuration","functional_areas":["Configuration","System","Setup"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Migrate Configuration | Commerce PHP Extensions","description":"Use these examples to migrate your message queue configuration between 2.x versions of Adobe Commerce and Magento Open Source."}}},
     "staticQueryHashes": ["915530536"]}

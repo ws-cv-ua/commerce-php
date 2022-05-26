@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-validate-index-md",
     "path": "/developer/validate/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Validate"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Validate | Commerce PHP Extensions","description":"Review introductory resources for validating Adobe Commerce and Magento Open Source components."}}},
     "staticQueryHashes": ["915530536"]}

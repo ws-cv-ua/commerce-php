@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-framework-index-md",
     "path": "/developer/framework/",
-    "result": {"pageContext":{"frontmatter":{}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Framework | Commerce PHP Extensions","description":null}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-framework-array-manager-md",
     "path": "/developer/framework/array-manager/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Array Manager"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Array Manager | Commerce PHP Extensions","description":"Manage deeply nested associative arrays in your Adobe Commerce and Magento Open Source components."}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-components-message-queues-object-states-md",
     "path": "/developer/components/message-queues/object-states/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Handling outdated in-memory object states","functional_areas":["Configuration","System"]}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Handling Outdated In-Memory Object States | Commerce PHP Extensions","description":"Re-instantiate Adobe Commerce and Magento Open source memory state using the PoisonPill interface after updating the store configuration in the Admin."}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-security-cross-site-scripting-prevention-md",
-    "path": "/developer/security/cross-site-scripting-prevention/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","subgroup":"Security","title":"XSS prevention strategies","menu_title":"XSS prevention strategies","menu_order":1100}}},
-    "staticQueryHashes": ["915530536"]}

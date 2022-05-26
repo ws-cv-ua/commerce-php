@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-framework-float-comparator-md",
     "path": "/developer/framework/float-comparator/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"Float Comparator","contributor_name":"Adarsh Manickam","contributor_link":"https://github.com/drpayyne"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Float Comparator | Commerce PHP Extensions","description":"Use this library in your Adobe Commerce and Magento Open Source components to compare float values with an appropriate epsilon value.","contributor_name":"Adarsh Manickam","contributor_link":"https://github.com/drpayyne"}}},
     "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-developer-versioning-tests-md",
     "path": "/developer/versioning/tests/",
-    "result": {"pageContext":{"frontmatter":{"group":"php-developer-guide","title":"MFTF test versioning and backward compatibility policy"}}},
+    "result": {"pageContext":{"frontmatter":{"title":"MFTF Test Versioning and Backward Compatibility | Commerce PHP Extensions","description":"Learn about the functional test framework test versioning and backward compatibility policy for Adobe Commerce and Magento Open Source component development."}}},
     "staticQueryHashes": ["915530536"]}
