@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-components-dependency-injection-md",
-    "path": "/developer/components/dependency-injection/",
-    "result": {"pageContext":{"frontmatter":{"title":"Dependency Injection | Commerce PHP Extensions","description":"Learn how to declare dependencies to external objects when developing Adobe Commerce and Magento Open Source extensions."}}},
-    "staticQueryHashes": ["915530536"]}

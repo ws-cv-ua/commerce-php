@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-cli-commands-custom-md",
-    "path": "/developer/cli-commands/custom/",
-    "result": {"pageContext":{"frontmatter":{"title":"Create a Custom Command | Commerce PHP Extensions","description":"Learn how to create custom CLI commands for Adobe Commerce and Magento Open Source."}}},
-    "staticQueryHashes": ["915530536"]}

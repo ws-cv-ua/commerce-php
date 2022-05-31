@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-components-factories-md",
-    "path": "/developer/components/factories/",
-    "result": {"pageContext":{"frontmatter":{"title":"Factories | Commerce PHP Extensions","description":"Use factories to instantiate non-injectable classes in your Adobe Commerce and Magento Open Source extenions.","contributor_name":"Classy Llama","contributor_link":"http://www.classyllama.com/"}}},
-    "staticQueryHashes": ["915530536"]}

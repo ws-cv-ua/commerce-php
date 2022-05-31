@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-components-async-operations-md",
-    "path": "/developer/components/async-operations/",
-    "result": {"pageContext":{"frontmatter":{"title":"Asynchronous and Deferred Operations | Commerce PHP Extensions","description":"Use the DeferredInterface to write code for asynchronous operations in Adobe Commerce and Magento Open Source extensions."}}},
-    "staticQueryHashes": ["915530536"]}

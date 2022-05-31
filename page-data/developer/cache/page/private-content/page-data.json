@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-cache-page-private-content-md",
-    "path": "/developer/cache/page/private-content/",
-    "result": {"pageContext":{"frontmatter":{"title":"Private Content | Commerce PHP Extensions","description":"Learn how to work with private data when implementing a caching in your Adobe Commerce or Magento Open Source extension."}}},
-    "staticQueryHashes": ["915530536"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-security-file-uploads-md",
-    "path": "/developer/security/file-uploads/",
-    "result": {"pageContext":{"frontmatter":{"title":"File Uploads | Commerce PHP Extensions","description":"Use the Adobe Commerce and Magento Open Source out-of-the-box abstraction so that your component can safely work with user-uploaded files."}}},
-    "staticQueryHashes": ["915530536"]}

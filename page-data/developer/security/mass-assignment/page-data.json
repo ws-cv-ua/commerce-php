@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-developer-security-mass-assignment-md",
-    "path": "/developer/security/mass-assignment/",
-    "result": {"pageContext":{"frontmatter":{"title":"Mass Assignment | Commerce PHP Extensions","description":"Prevent Adobe Commerce and Magento Open Source components from allowing bad actors to override user-editable properties with arbitrary values in HTTP requests."}}},
-    "staticQueryHashes": ["915530536"]}
